@@ -6,6 +6,6 @@ Target MCU：STC8A8K64S4A12-28I-LQFP64
 # 主板正面
 ![PCB 3D](https://github.com/TerayTech/ECO_CarMotherboard_Taichi01/blob/master/pcb.png)
 # 原理图
-![PCB 3D](https://github.com/TerayTech/ECO_CarMotherboard_Taichi01/blob/master/sch.png)
+![SCH](https://github.com/TerayTech/ECO_CarMotherboard_Taichi01/blob/master/sch.png)
 # PCB顶层
-![PCB 3D](https://github.com/TerayTech/ECO_CarMotherboard_Taichi01/blob/master/top.png)
+![PCB TOP](https://github.com/TerayTech/ECO_CarMotherboard_Taichi01/blob/master/top.png)
